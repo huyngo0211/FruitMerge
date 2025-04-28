@@ -1,0 +1,92 @@
+[
+ {
+   "id": 1,
+   "rate": 35,
+   "rank": 1,
+   "scale": 0.5
+ },
+ {
+   "id": 2,
+   "rate": 30,
+   "rank": 2,
+   "scale": 0.7
+ },
+ {
+   "id": 3,
+   "rate": 25,
+   "rank": 3,
+   "scale": 0.9
+ },
+ {
+   "id": 4,
+   "rate": 20,
+   "rank": 4,
+   "scale": 1.1
+ },
+ {
+   "id": 5,
+   "rate": 15,
+   "rank": 5,
+   "scale": 1.3
+ },
+ {
+   "id": 6,
+   "rate": 10,
+   "rank": 6,
+   "scale": 1.5
+ },
+ {
+   "id": 7,
+   "rate": 9,
+   "rank": 7,
+   "scale": 1.7
+ },
+ {
+   "id": 8,
+   "rate": 8,
+   "rank": 8,
+   "scale": 1.9
+ },
+ {
+   "id": 9,
+   "rate": 7,
+   "rank": 9,
+   "scale": 2.1
+ },
+ {
+   "id": 10,
+   "rate": 6,
+   "rank": 10,
+   "scale": 2.3
+ },
+ {
+   "id": 11,
+   "rate": 5,
+   "rank": 11,
+   "scale": 2.5
+ },
+ {
+   "id": 12,
+   "rate": 4,
+   "rank": 12,
+   "scale": 2.7
+ },
+ {
+   "id": 13,
+   "rate": 3,
+   "rank": 13,
+   "scale": 2.9
+ },
+ {
+   "id": 14,
+   "rate": 2,
+   "rank": 14,
+   "scale": 3.1
+ },
+ {
+   "id": 15,
+   "rate": 1,
+   "rank": 15,
+   "scale": 3.3
+ }
+]
